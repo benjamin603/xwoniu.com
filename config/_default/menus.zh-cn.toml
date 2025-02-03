@@ -28,7 +28,7 @@
 [[main]]
   identifier = "image"
   pre = "image"
-  url = "https://photos.xwoniu.com"
+  url = "https://gallery.xwoniu.com"
   weight = 30
 
 #[[main]]
