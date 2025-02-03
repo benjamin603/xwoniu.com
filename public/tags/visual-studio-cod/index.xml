@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Visual Studio Cod on Xwoniu</title>
+    <link>http://localhost:1313/tags/visual-studio-cod/</link>
+    <description>Recent content in Visual Studio Cod on Xwoniu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 Benjamin</copyright>
+    <lastBuildDate>Sat, 01 Jun 2024 11:47:06 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/visual-studio-cod/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Visual Studio Code 配置</title>
+      <link>http://localhost:1313/posts/code/visaul-studio-code/</link>
+      <pubDate>Sat, 01 Jun 2024 11:47:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/code/visaul-studio-code/</guid>
+      <description>作为目前主力开发以及编辑工具，VSCode每天都在使用，下面列举本人为了方便开发而使用安装的一些插件以及美化。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/code/visaul-studio-code/featured.webp" />
+    </item>
+    
+  </channel>
+</rss>

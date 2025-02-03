@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>图床 on Xwoniu</title>
+    <link>http://localhost:1313/tags/%E5%9B%BE%E5%BA%8A/</link>
+    <description>Recent content in 图床 on Xwoniu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 Benjamin</copyright>
+    <lastBuildDate>Wed, 15 Jan 2025 10:28:06 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/%E5%9B%BE%E5%BA%8A/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>折腾图床的心酸历程</title>
+      <link>http://localhost:1313/posts/code/toss-picture-bed/</link>
+      <pubDate>Wed, 15 Jan 2025 10:28:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/code/toss-picture-bed/</guid>
+      <description>从刚开始接触 Hexo 的时候，就开始使用 &lt;code&gt; 图床&lt;/code&gt; 来存放博客图片，以提高访问速度，中间折腾过不少解决方案，也遇到了很多坑。本文用来记录一下！</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/code/toss-picture-bed/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>年度总结 on Xwoniu</title>
+    <link>http://localhost:1313/tags/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/</link>
+    <description>Recent content in 年度总结 on Xwoniu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 Benjamin</copyright>
+    <lastBuildDate>Sun, 02 Feb 2025 19:52:04 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2024年度总结</title>
+      <link>http://localhost:1313/posts/daily/summary-of-2024/</link>
+      <pubDate>Sun, 02 Feb 2025 19:52:04 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/daily/summary-of-2024/</guid>
+      <description>写年度总结不是一件容易的事情，从年前写到了现在！</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/daily/summary-of-2024/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

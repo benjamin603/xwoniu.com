@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>日记 on Xwoniu</title>
+    <link>http://localhost:1313/tags/%E6%97%A5%E8%AE%B0/</link>
+    <description>Recent content in 日记 on Xwoniu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 Benjamin</copyright>
+    <lastBuildDate>Mon, 13 Jan 2025 20:44:16 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E6%97%A5%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>去汉中吃鱼</title>
+      <link>http://localhost:1313/posts/daily/travel-hanzhong/</link>
+      <pubDate>Mon, 13 Jan 2025 20:44:16 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/daily/travel-hanzhong/</guid>
+      <description>这是我第一次坐火车。30多年第一次坐火车</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/daily/travel-hanzhong/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

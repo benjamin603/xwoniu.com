@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daily on Xwoniu</title>
+    <link>http://localhost:1313/categories/daily/</link>
+    <description>Recent content in Daily on Xwoniu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 Benjamin</copyright>
+    <lastBuildDate>Sun, 02 Feb 2025 19:52:04 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/daily/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2024年度总结</title>
+      <link>http://localhost:1313/posts/daily/summary-of-2024/</link>
+      <pubDate>Sun, 02 Feb 2025 19:52:04 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/daily/summary-of-2024/</guid>
+      <description>写年度总结不是一件容易的事情，从年前写到了现在！</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/daily/summary-of-2024/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>折腾图床的心酸历程</title>
+      <link>http://localhost:1313/posts/code/toss-picture-bed/</link>
+      <pubDate>Wed, 15 Jan 2025 10:28:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/code/toss-picture-bed/</guid>
+      <description>从刚开始接触 Hexo 的时候，就开始使用 &lt;code&gt; 图床&lt;/code&gt; 来存放博客图片，以提高访问速度，中间折腾过不少解决方案，也遇到了很多坑。本文用来记录一下！</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/code/toss-picture-bed/featured.png" />
+    </item>
+    
+    <item>
+      <title>去汉中吃鱼</title>
+      <link>http://localhost:1313/posts/daily/travel-hanzhong/</link>
+      <pubDate>Mon, 13 Jan 2025 20:44:16 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/daily/travel-hanzhong/</guid>
+      <description>这是我第一次坐火车。30多年第一次坐火车</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/daily/travel-hanzhong/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

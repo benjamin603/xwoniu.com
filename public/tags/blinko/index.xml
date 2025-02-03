@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blinko on Xwoniu</title>
+    <link>http://localhost:1313/tags/blinko/</link>
+    <description>Recent content in Blinko on Xwoniu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 Benjamin</copyright>
+    <lastBuildDate>Fri, 10 Jan 2025 11:01:10 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/blinko/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello Blinko</title>
+      <link>http://localhost:1313/posts/code/hello-blinko/</link>
+      <pubDate>Fri, 10 Jan 2025 11:01:10 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/code/hello-blinko/</guid>
+      <description>Memos 的 S3 储存太拉跨了，用群友的话就是作者的每次更新都是毁灭性的！进而了解到了 &lt;a href=&#34;https://blinko.mintlify.app/&#34; target=&#34;_blank&#34;&gt;Blinko&lt;/a&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/code/hello-blinko/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

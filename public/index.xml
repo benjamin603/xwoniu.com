@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to Blowfish! :tada: on Xwoniu</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Welcome to Blowfish! :tada: on Xwoniu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 Benjamin</copyright>
+    <lastBuildDate>Sun, 02 Feb 2025 19:52:04 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2024年度总结</title>
+      <link>http://localhost:1313/posts/daily/summary-of-2024/</link>
+      <pubDate>Sun, 02 Feb 2025 19:52:04 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/daily/summary-of-2024/</guid>
+      <description>写年度总结不是一件容易的事情，从年前写到了现在！</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/daily/summary-of-2024/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>白嫖  Gemini</title>
+      <link>http://localhost:1313/posts/code/free-use-aistudio/</link>
+      <pubDate>Tue, 21 Jan 2025 13:03:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/code/free-use-aistudio/</guid>
+      <description>谷歌 Gemini 是所有一线顶级大模型当中唯一一个 API 可以免费白嫖的。本期视频，我们借助互联网大善人 Cloudflare 来中转一下 Gemini API，这样就得到一个国内免费爽用的顶级大模型。有了 API 以后，我们可以进行 AI 编程，可以聊天，可以音视频通话，做各种各样好玩的事情。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/code/free-use-aistudio/featured.png" />
+    </item>
+    
+    <item>
+      <title>Aliyun ECS</title>
+      <link>http://localhost:1313/posts/code/win11-apps/</link>
+      <pubDate>Thu, 16 Jan 2025 10:35:55 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/code/win11-apps/</guid>
+      <description>昨天晚上打算部署一个新的服务时，阿里云 ECS 突然不能访问了，SSH 也无法连接，VNC 也无法连接。今天上午联系客服才知道内存拉爆了！</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/code/win11-apps/featured.png" />
+    </item>
+    
+    <item>
+      <title>折腾图床的心酸历程</title>
+      <link>http://localhost:1313/posts/code/toss-picture-bed/</link>
+      <pubDate>Wed, 15 Jan 2025 10:28:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/code/toss-picture-bed/</guid>
+      <description>从刚开始接触 Hexo 的时候，就开始使用 &lt;code&gt; 图床&lt;/code&gt; 来存放博客图片，以提高访问速度，中间折腾过不少解决方案，也遇到了很多坑。本文用来记录一下！</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/code/toss-picture-bed/featured.png" />
+    </item>
+    
+    <item>
+      <title>去汉中吃鱼</title>
+      <link>http://localhost:1313/posts/daily/travel-hanzhong/</link>
+      <pubDate>Mon, 13 Jan 2025 20:44:16 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/daily/travel-hanzhong/</guid>
+      <description>这是我第一次坐火车。30多年第一次坐火车</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/daily/travel-hanzhong/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Hello Blinko</title>
+      <link>http://localhost:1313/posts/code/hello-blinko/</link>
+      <pubDate>Fri, 10 Jan 2025 11:01:10 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/code/hello-blinko/</guid>
+      <description>Memos 的 S3 储存太拉跨了，用群友的话就是作者的每次更新都是毁灭性的！进而了解到了 &lt;a href=&#34;https://blinko.mintlify.app/&#34; target=&#34;_blank&#34;&gt;Blinko&lt;/a&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/code/hello-blinko/featured.png" />
+    </item>
+    
+    <item>
+      <title>黑群晖配置</title>
+      <link>http://localhost:1313/posts/code/synology-configuration/</link>
+      <pubDate>Wed, 08 Jan 2025 21:01:49 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/code/synology-configuration/</guid>
+      <description>记录一些自己折腾群晖 NAS 的过程！</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/code/synology-configuration/featured.png" />
+    </item>
+    
+    <item>
+      <title>Visual Studio Code 配置</title>
+      <link>http://localhost:1313/posts/code/visaul-studio-code/</link>
+      <pubDate>Sat, 01 Jun 2024 11:47:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/code/visaul-studio-code/</guid>
+      <description>作为目前主力开发以及编辑工具，VSCode每天都在使用，下面列举本人为了方便开发而使用安装的一些插件以及美化。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/code/visaul-studio-code/featured.webp" />
+    </item>
+    
+    <item>
+      <title>Memos 版本降级</title>
+      <link>http://localhost:1313/posts/code/memos-downgrade/</link>
+      <pubDate>Sun, 12 May 2024 08:50:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/code/memos-downgrade/</guid>
+      <description>&lt;p&gt;Memos 升级到新版后，出现了各种不适应。比如：API 调用，S3储存无法自定义域名等等，所以打算降级到 &lt;code&gt;v0.18.2&lt;/code&gt; 版本。&lt;/p&gt;
+&lt;p&gt;
+  &lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://s3.xwoniu.com/blog/posts/34c90356445fe3041cc50758d27b381f.webp?mark=blog/Xwoniu-LOGO.png&amp;amp;mark-pos=0.96,0.96&amp;amp;mark-pct=0.2&amp;amp;mark-alpha=0.5&#34; alt=&#34;Memos V0.23.0&#34; /&gt;
+    
+  &lt;/figure&gt;
+&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/code/memos-downgrade/featured.png" />
+    </item>
+    
+    <item>
+      <title>Watched</title>
+      <link>http://localhost:1313/media/_index.en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/media/_index.en/</guid>
+      <description>&lt;p&gt;My &lt;a href=&#34;https://neodb.social/users/eallion/&#34; target=&#34;_blank&#34;&gt;NeoDB&lt;/a&gt; book, film and music bookmark records.
+Life is like a movie without a script. Watching a movie is like having a dream, like taking a long trip, like experiencing someone else&amp;rsquo;s life. Reading won&amp;rsquo;t make you smart, but reading will let you know yourself stupid. Those truths that our teachers and elders didn&amp;rsquo;t teach us, from books and movies, we quietly learn.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

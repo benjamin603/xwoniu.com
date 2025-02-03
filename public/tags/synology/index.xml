@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Synology on Xwoniu</title>
+    <link>http://localhost:1313/tags/synology/</link>
+    <description>Recent content in Synology on Xwoniu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 Benjamin</copyright>
+    <lastBuildDate>Wed, 08 Jan 2025 21:01:49 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/synology/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>黑群晖配置</title>
+      <link>http://localhost:1313/posts/code/synology-configuration/</link>
+      <pubDate>Wed, 08 Jan 2025 21:01:49 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/code/synology-configuration/</guid>
+      <description>记录一些自己折腾群晖 NAS 的过程！</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/code/synology-configuration/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

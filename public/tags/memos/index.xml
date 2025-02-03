@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Memos on Xwoniu</title>
+    <link>http://localhost:1313/tags/memos/</link>
+    <description>Recent content in Memos on Xwoniu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 Benjamin</copyright>
+    <lastBuildDate>Sun, 12 May 2024 08:50:33 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/memos/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Memos 版本降级</title>
+      <link>http://localhost:1313/posts/code/memos-downgrade/</link>
+      <pubDate>Sun, 12 May 2024 08:50:33 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/code/memos-downgrade/</guid>
+      <description>&lt;p&gt;Memos 升级到新版后，出现了各种不适应。比如：API 调用，S3储存无法自定义域名等等，所以打算降级到 &lt;code&gt;v0.18.2&lt;/code&gt; 版本。&lt;/p&gt;
+&lt;p&gt;
+  &lt;figure&gt;
+    &lt;img class=&#34;my-0 rounded-md&#34; loading=&#34;lazy&#34; src=&#34;https://s3.xwoniu.com/blog/posts/34c90356445fe3041cc50758d27b381f.webp?mark=blog/Xwoniu-LOGO.png&amp;amp;mark-pos=0.96,0.96&amp;amp;mark-pct=0.2&amp;amp;mark-alpha=0.5&#34; alt=&#34;Memos V0.23.0&#34; /&gt;
+    
+  &lt;/figure&gt;
+&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/code/memos-downgrade/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

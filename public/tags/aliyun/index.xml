@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aliyun on Xwoniu</title>
+    <link>http://localhost:1313/tags/aliyun/</link>
+    <description>Recent content in Aliyun on Xwoniu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 Benjamin</copyright>
+    <lastBuildDate>Thu, 16 Jan 2025 10:35:55 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/aliyun/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Aliyun ECS</title>
+      <link>http://localhost:1313/posts/code/win11-apps/</link>
+      <pubDate>Thu, 16 Jan 2025 10:35:55 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/code/win11-apps/</guid>
+      <description>昨天晚上打算部署一个新的服务时，阿里云 ECS 突然不能访问了，SSH 也无法连接，VNC 也无法连接。今天上午联系客服才知道内存拉爆了！</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/code/win11-apps/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gemini on Xwoniu</title>
+    <link>http://localhost:1313/tags/gemini/</link>
+    <description>Recent content in Gemini on Xwoniu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>© 2025 Benjamin</copyright>
+    <lastBuildDate>Tue, 21 Jan 2025 13:03:06 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/gemini/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>白嫖  Gemini</title>
+      <link>http://localhost:1313/posts/code/free-use-aistudio/</link>
+      <pubDate>Tue, 21 Jan 2025 13:03:06 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/code/free-use-aistudio/</guid>
+      <description>谷歌 Gemini 是所有一线顶级大模型当中唯一一个 API 可以免费白嫖的。本期视频，我们借助互联网大善人 Cloudflare 来中转一下 Gemini API，这样就得到一个国内免费爽用的顶级大模型。有了 API 以后，我们可以进行 AI 编程，可以聊天，可以音视频通话，做各种各样好玩的事情。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/code/free-use-aistudio/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
